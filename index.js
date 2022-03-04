@@ -11,7 +11,7 @@ btn.addEventListener('click', (event) => {
     yy=parseInt(date.slice(2,4));
     mm=parseInt(date.slice(5,7));
     dd=parseInt(date.slice(8));
-    dayOfWeek = ((((cc/4)- ((2*cc)-1)) + ((5*yy/4)) + ((26*(mm+1)/10)) + dd) % 7);
+    dayOfWeek =  ( ( (cc/4) -2*cc-1) + ((5*yy/4) ) + ((26*(mm+1)/10)) + dd ) % 7;
     console.log(cc,yy,mm,dd);
     console.log(dayOfWeek);
     dayOfWeek = Math.floor(dayOfWeek);
