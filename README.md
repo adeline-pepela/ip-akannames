@@ -1,4 +1,5 @@
 # ip-akannames
+
 Akan Name Generator by Adeline Makokha
 This project features a generator that derives an Akan names with regard to the day of the week that a user was born and their gender.
 
