@@ -1,3 +1,4 @@
+// User interface (or front-end) logic:
 const btn = document.getElementById("submit");
 const form = document.getElementById("form");
 let gender,date, akanName;
@@ -19,6 +20,8 @@ btn.addEventListener('click', (event) => {
     const akan = document.getElementById("akan");
    
 
+  
+// Business (or back-end) logic:
     const akanmale = ["Kwasi", "Kwadwo", "Kwabena", "Kwaku", "Yaw","Kofi","Kwame"];
     const akanfemale = ["Akosua", "Adwoa", "Abenaa", "Akua", "Yaa", "Afua", "Ama"];
     if(gender ==="male"){
