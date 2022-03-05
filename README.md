@@ -1,5 +1,5 @@
 # ip-akannames
-Akan Name Generator by Karen Ngala
+Akan Name Generator by Adeline Makokha
 This project features a generator that derives an Akan names with regard to the day of the week that a user was born and their gender.
 
 Description
@@ -27,11 +27,11 @@ To get a local copy up of this project, Clone the repo:
 From the parent folder, Akan-names, you can open index.html on your browser
 Collaborate on this project by forking this repository to your github, clone it and create a new branch to make changes on, then push the changes to your remote repository
 
-[git clone] (https://github.com/KarenNgala/Akan-names.git)
+[git clone] https://github.com/adeline-pepela/ip-akannames.git
 
 Contact
-Karen Ngala - ngalalalu@gmail.com
-Live Link: https://karenngala.github.io/Akan-names/
+Adeline Makokha
+Live Link: https://adeline-pepela.github.io/ip-akannames/
 
 Copyright & License
 Distributed under the MIT License. See LICENSE for more information on license and copyright.
